@@ -1,0 +1,86 @@
+Master
+    =====
+ ===========
+  ==     ==
+  == = = ==
+   =  =  =
+    = = = 
+ == ===== == 
+=  =  0  =  =
+=  =  0  =  =
+ == = 0 = ==
+    = = =
+    = = =
+  ==== ====
+ ===== =====
+
+
+Demo:
+    =====
+ ===========
+  ==     ==
+  == = = ==
+   =  =  =
+    = = = 
+ == ===== == 
+=  =  0  =  =
+=  =  0  =  =
+ == = 0 = ==
+    = = =
+    = = =
+  ==== ====
+ ===== =====
+
+После сравнения получившейся ветки master и удаленной ветки demo выяснилось, что отличаются только файлы README.
+
+# В удалённом репозитории встретилось 10 комитов.
+Merge branch 'boots_buttons'
+
+@VeraPavlovskaya
+VeraPavlovskaya committed 1 hour ago
+
+Merge remote-tracking branch 'origin/hat'
+
+@VeraPavlovskaya
+VeraPavlovskaya committed 1 hour ago
+
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+@VeraPavlovskaya
+VeraPavlovskaya committed 2 hours ago
+
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+@VeraPavlovskaya
+VeraPavlovskaya committed 2 hours ago
+
+Commits on Jun 29, 2016
+fix readme
+
+@MobDev-Hobby
+MobDev-Hobby committed on Jun 29, 2016
+
+dots
+
+@MobDev-Hobby
+MobDev-Hobby committed on Jun 29, 2016
+
+README added
+
+@MobDev-Hobby
+MobDev-Hobby committed on Jun 29, 2016
+
+boots
+
+@MobDev-Hobby
+MobDev-Hobby committed on Jun 29, 2016
+
+heat added
+
+@MobDev-Hobby
+MobDev-Hobby committed on Jun 29, 2016
+
+init
+
+@MobDev-Hobby
+MobDev-Hobby committed on Jun 29, 2016
